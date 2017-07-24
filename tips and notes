@@ -1,0 +1,8 @@
+1、bif -- build in function
+
+2、input() -> return a string type
+
+3、原始字符串 str = r'C:\now' （相当于转义字符）
+
+4、list1 = list2[:] :复制, == list1 = list2.copy()
+   list1 = list2 :别名,改变其中一个，另一个同样改变，实际上是同一个东西,相当于C改变地址指向的值
